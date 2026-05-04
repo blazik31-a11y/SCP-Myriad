@@ -1,2 +1,0 @@
-# SCP-Myriad
-SCP MYRIAD 
