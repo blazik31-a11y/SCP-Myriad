@@ -1,0 +1,10 @@
+{
+	"texture_data": {
+		"cup": {
+			"textures": "textures/items/cup.png"
+		},
+		"testing_interactable": {
+			"textures": "textures/items/testing_interactable.png"
+		}
+	}
+}
