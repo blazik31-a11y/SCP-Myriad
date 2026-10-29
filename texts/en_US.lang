@@ -7,3 +7,8 @@ tile.scpmyriad.lined_plaster.name=Lined Plaster
 tile.scpmyriad.topboard_plaster.name=Topboard Plaster
 
 myriad:itemGroup.name.plaster=Plaster
+
+entity.myriad:049.name=§8SCP-049 §f- §e[EUCLID]
+item.spawn_egg.entity.myriad:049.name=Spawn §8SCP-049 §f- §e[EUCLID]
+entity.myriad:049_2.name=§8SCP-049-2 §f- §e[EUCLID]
+item.spawn_egg.entity.myriad:049_2.name=Spawn §8SCP-049-2 §f- §e[EUCLID]
