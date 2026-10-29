@@ -20,6 +20,9 @@
 			"version": [1, 0, 0]
 		}
 	],
+  "capabilities": [
+  "pbr"
+],
 	"dependencies": [
 		{
 			"uuid": "d8a634c4-5ca2-7eb6-195f-0efb193acd90",
