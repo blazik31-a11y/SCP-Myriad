@@ -6,6 +6,18 @@
 	"texture_data": {
 		"white_tiles": {
 			"textures": "textures/blocks/tiles/white_tiles"
+		},
+		"plaster" : {
+			"textures" : "textures/blocks/plaster/plaster"
+		},
+		"baseboard_plaster" : {
+			"textures" : "textures/blocks/plaster/baseboard_plaster"
+		},
+		"topboard_plaster" : {
+			"textures" : "textures/blocks/plaster/topboard_plaster"
+		},
+		"lined_plaster" : {
+			"textures" : "textures/blocks/plaster/lined_plaster"
 		}
 	}
 }
