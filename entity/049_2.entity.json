@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "myriad:049_2",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/049_2"
+			},
+			"geometry": {
+				"default": "geometry.049_2"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#e1e1e1",
+				"overlay_color": "#c4da5f"
+			}
+		}
+	}
+}
