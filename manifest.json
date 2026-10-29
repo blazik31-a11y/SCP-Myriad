@@ -9,7 +9,8 @@
 	},
 	"metadata": {
 		"generated_with": {
-			"blockbench_item_wizard": ["1.2.4"]
+			"blockbench_item_wizard": ["1.2.4"],
+			"blockbench_entity_wizard": ["1.8.3"]
 		}
 	},
 	"modules": [
@@ -20,9 +21,7 @@
 			"version": [1, 0, 0]
 		}
 	],
-  "capabilities": [
-  "pbr"
-],
+	"capabilities": ["pbr"],
 	"dependencies": [
 		{
 			"uuid": "d8a634c4-5ca2-7eb6-195f-0efb193acd90",
