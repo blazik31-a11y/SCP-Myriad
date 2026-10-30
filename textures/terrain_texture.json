@@ -4,6 +4,15 @@
 	"padding": 8,
 	"num_mip_levels": 4,
 	"texture_data": {
+		"null": {
+			"textures": "textures/null"
+		},
+		"facility_button": {
+			"textures": "textures/blocks/utility_blocks/facility_button"
+		},
+		"facility_button_on": {
+			"textures": "textures/blocks/utility_blocks/facility_button_on"
+		},
 		"white_tiles": {
 			"textures": "textures/blocks/tiles/white_tiles"
 		},

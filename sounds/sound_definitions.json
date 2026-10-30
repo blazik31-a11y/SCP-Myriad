@@ -1,0 +1,17 @@
+{
+	"format_version": "1.14.0",
+	"sound_definitions": {
+		"interactables.button.push": {
+			"sounds": [
+				"sounds/interactables/facility_button/facility_button_on"
+			],
+			"category": "ui"
+		},
+		"interactables.button.pull_back": {
+			"sounds": [
+				"sounds/interactables/facility_button/facility_button_off"
+			],
+			"category": "ui"
+		}
+	}
+}

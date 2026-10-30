@@ -1,5 +1,11 @@
 {
 	"format_version": "1.21.0",
+	"myriad:light_containment_door": {
+		"sound": "metal"
+	},
+	"myriad:facility_button": {
+		"sound": "metal"
+	},
 	"myriad:plaster_stairs": {
 		"sound": "stone"
 	}
