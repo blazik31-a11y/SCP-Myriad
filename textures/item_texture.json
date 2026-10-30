@@ -5,6 +5,9 @@
 		},
 		"testing_interactable": {
 			"textures": "textures/items/testing_interactable.png"
+		},
+		"lavendar": {
+			"textures": "textures/items/lavendar.png"
 		}
 	}
 }
