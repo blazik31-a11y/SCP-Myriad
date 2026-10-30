@@ -1,0 +1,50 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.lcdoor": {
+			"initial_state": "closed",
+			"states": {
+				"closed": {
+					"animations": [
+						"lcdoor.closed"
+					],
+					"transitions": [
+						{
+							"opening": "query.property('myriad:open') == true"
+						}
+					]
+				},
+				"opening": {
+					"animations": [
+						"lcdoor.opening"
+					],
+					"transitions": [
+						{
+							"open": "query.all_animations_finished"
+						}
+					]
+				},
+				"open": {
+					"animations": [
+						"lcdoor.open"
+					],
+					"transitions": [
+						{
+							"closing": "query.property('myriad:open') == false"
+						}
+					]
+				},
+				"closing": {
+					"animations": [
+						"lcdoor.closing"
+					],
+					"transitions": [
+						{
+							"closed": "query.all_animations_finished"
+						}
+					]
+				}
+			}
+		}
+	}
+}

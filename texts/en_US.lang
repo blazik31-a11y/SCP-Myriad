@@ -20,3 +20,5 @@ entity.myriad:scp173.name=§8SCP-173 §f- §e[EUCLID]
 item.spawn_egg.entity.myriad:scp173.name=Spawn §8SCP-173 §f- §e[EUCLID]
 tile.myriad:facility_button.name=Facility Button
 tile.myriad:light_containment_door.name=Light Containment Door
+
+entity.myriad:light_containment_door_entity.name=light containment door entity
