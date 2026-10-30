@@ -1,5 +1,11 @@
 {
 	"texture_data": {
+		"500": {
+			"textures": "textures/items/500.png"
+		},
+		"500_pill": {
+			"textures": "textures/items/500_pill.png"
+		},
 		"cup": {
 			"textures": "textures/items/cup.png"
 		},
