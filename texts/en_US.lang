@@ -16,3 +16,5 @@ entity.myriad:049_2.name=§8SCP-049-2 §f- §e[EUCLID]
 item.spawn_egg.entity.myriad:049_2.name=Spawn §8SCP-049-2 §f- §e[EUCLID]
 item.myriad:lavendar.name=Lavender
 tile.myriad:plaster_stairs.name=Plaster Stairs
+entity.myriad:scp173.name=§8SCP-173 §f- §e[EUCLID]
+item.spawn_egg.entity.myriad:scp173.name=Spawn §8SCP-173 §f- §e[EUCLID]
