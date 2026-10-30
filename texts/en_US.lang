@@ -5,8 +5,8 @@ tile.scpmyriad.plaster.name=Plaster
 tile.scpmyriad.baseboard_plaster.name=Baseboard Plaster
 tile.scpmyriad.lined_plaster.name=Lined Plaster
 tile.scpmyriad.topboard_plaster.name=Topboard Plaster
-tile.kai_templates.stone_slab.name=Stone Slab
-item.kai_templates:stone_slab=Stone Slab
+tile.myriad.plaster_slab.name=Plaster Slab
+item.myriad:plaster_slab=Plaster Slab
 
 myriad:itemGroup.name.plasters=Plaster
 
