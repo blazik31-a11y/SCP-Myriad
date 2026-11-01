@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "myriad:173_excretion",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/173_excretion"
+			},
+			"geometry": {
+				"default": "geometry.173_excretion"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

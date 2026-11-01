@@ -3,6 +3,9 @@
 		"500": {
 			"textures": "textures/items/500.png"
 		},
+		"mop": {
+			"textures": "textures/items/mop.png"
+		},
 		"500_pill": {
 			"textures": "textures/items/500_pill.png"
 		},

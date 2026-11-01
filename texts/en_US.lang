@@ -22,3 +22,5 @@ tile.myriad:facility_button.name=Facility Button
 tile.myriad:light_containment_door.name=Light Containment Door
 
 entity.myriad:light_containment_door_entity.name=light containment door entity
+item.myriad:mop=Mop
+entity.myriad:173_excretion.name=173_excretion

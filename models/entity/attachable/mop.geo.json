@@ -1,0 +1,26 @@
+{
+	"format_version": "1.19.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.mop",
+				"texture_width": 16,
+				"texture_height": 16,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "root_item",
+					"pivot": [0, 0, 0],
+					"binding": "q.item_slot_to_bone_name(c.item_slot)",
+					"cubes": [
+						{"origin": [0.5, -4, -1.5], "size": [2, 19, 2], "uv": [4, 1]},
+						{"origin": [0.5, 15, -5.5], "size": [2, 2, 10], "uv": [-4, -7]}
+					]
+				}
+			]
+		}
+	]
+}
